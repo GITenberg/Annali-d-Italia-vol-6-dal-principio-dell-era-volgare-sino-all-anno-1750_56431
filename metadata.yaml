@@ -1,0 +1,39 @@
+_repo: Annali-d-Italia-vol-6-dal-principio-dell-era-volgare-sino-all-anno-1750_56431
+_version: 0.0.1
+contributor:
+  commentator:
+    agent_name: Napione, Gian Francesco Galeani
+    gutenberg_agent_id: '48840'
+    url: http://www.gutenberg.org/2009/agents/48840
+creator:
+  author:
+    agent_name: Muratori, Lodovico Antonio
+    aliases:
+    - Valdesius, Ferdinandus
+    - Lampridius, Antonius
+    - Muratorio, Ludovico Antonio
+    - Pritanio, Lamindo
+    - Muratori, Luis Antonio
+    - Muratori, Ludovico Antonio
+    - Muratori, L. A. (Lodovico Antonio)
+    birthdate: 1672
+    deathdate: 1750
+    gutenberg_agent_id: '40167'
+    url: http://www.gutenberg.org/2009/agents/40167
+    wikipedia: http://en.wikipedia.org/wiki/Ludovico_Antonio_Muratori
+description: ''
+gutenberg_bookshelf: IT Storia
+gutenberg_issued: '2018-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56431'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Annali d''Italia, vol. 6
+
+  dal principio dell''era volgare sino all''anno 1750'
+url: http://www.gutenberg.org/ebooks/56431
